@@ -12,3 +12,7 @@
 
 ## Title Change
 ![Screenshot 5](./screenshot_5.png)
+
+## Add a Tab
+![Screenshot 6](./screenshot_6.png)
+![Screenshot 7](./screenshot_7.png)
