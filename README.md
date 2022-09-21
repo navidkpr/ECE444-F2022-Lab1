@@ -1,6 +1,7 @@
 # Navid Pour
 
 Janelle says hi
+[Janelle's Repo](https://github.com/Jan729/ECE444-F2022-Lab1)
 
 ![Screenshot 1](./screenshot_1.png)
 
