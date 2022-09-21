@@ -6,3 +6,6 @@
 ![Screenshot 3](./screenshot_3.png)
 ## Rebase
 ![Screenshot 4](./screenshot_4.png)
+
+## EP
+[EP Repository](https://github.com/navidkpr/ECE444-F2022-EP)
