@@ -16,3 +16,6 @@
 ## Add a Tab
 ![Screenshot 6](./screenshot_6.png)
 ![Screenshot 7](./screenshot_7.png)
+![Screenshot 8](./screenshot_8.png)
+![Screenshot 9](./screenshot_9.png)
+![Screenshot 10](./screenshot_10.png)
