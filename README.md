@@ -9,3 +9,6 @@
 
 ## EP
 [EP Repository](https://github.com/navidkpr/ECE444-F2022-EP)
+
+## Title Change
+![Screenshot 5](./screenshot_5.png)
