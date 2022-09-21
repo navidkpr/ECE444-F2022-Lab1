@@ -10,6 +10,7 @@ Janelle says hi
 
 ## Collaborate
 ![Screenshot 11](./screenshot_11.png)
+![Screenshot 12](./screenshot_12.png)
 
 ## Rebase
 ![Screenshot 4](./screenshot_4.png)
